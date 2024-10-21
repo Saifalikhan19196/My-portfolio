@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import project from '../../assets/project.png'; // Import project images
 import counter from '../../assets/counter.png';
 import password from '../../assets/password.png'
+import netflix from '../../assets/netflex.png'
 
 
 export default function Home() {
@@ -31,6 +32,13 @@ export default function Home() {
             description: ' This project showcases my skills in web development using React and Tailwind CSS.',
             image: project,
             link: 'https://todo-conetext.vercel.app/',
+        },
+          {
+            id:4,
+            title: 'Netflix ',
+            description: ' This project showcases my skills in web development using React and Tailwind CSS.',
+            image: netflix,
+            link: 'https://netflix-clone-tau-blue-97.vercel.app/',
         },
 
        
