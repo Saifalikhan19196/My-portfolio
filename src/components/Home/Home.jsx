@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import project from '../../assets/project.png'; // Import project images
 import counter from '../../assets/counter.png';
 import password from '../../assets/password.png'
-import netflix from '../../assets/netflex.png'
+import netflix from '../../assets/netflix.webp';
 
 
 export default function Home() {
